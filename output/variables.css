@@ -1,0 +1,65 @@
+/* 自动生成的CSS变量 - 基于设计令牌 */
+/* 生成时间: 2025-06-30T08:25:14.399Z */
+
+:root {
+  --sia-border-radius-circle: 50px;
+  --sia-border-radius-pill: 999px;
+  --sia-border-radius-lg: 24px;
+  --sia-border-radius-md: 16px;
+  --sia-border-radius-sm: 12px;
+  --sia-border-radius-xs: 8px;
+  --sia-border-radius-xxs: 4px;
+  --sia-border-width-xl: 8px;
+  --sia-border-width-lg: 4px;
+  --sia-border-width-md: 2px;
+  --sia-border-width-sm: 1.5px;
+  --sia-border-width-xs: 1px;
+  --sia-border-width-xxs: 0.5px;
+  --sia-color-warning-default: #d8001a;
+  --sia-color-warning-disable: #f794a0;
+  --sia-color-warning-disable-2: #fff2f4;
+  --sia-color-icon-default: #725eeb;
+  --sia-color-icon-secondary: #444444;
+  --sia-color-icon-tertiary: #6b6b6b;
+  --sia-color-icon-disabled: #b3b3b3;
+  --sia-color-icon-default2: #545672;
+  --sia-color-icon-tertiary-2: #757795;
+  --sia-color-text-200: #a5a5a5;
+  --sia-color-text-300: #6b6b6b;
+  --sia-color-text-400: #444444;
+  --sia-color-text-500: #2b2b2b;
+  --sia-color-text-600: #000000;
+  --sia-color-text-000: #cecece;
+  --sia-color-text-disabled: #b3b3b3;
+  --sia-color-text-caption100: #757795;
+  --sia-color-text-caption200: #545672;
+  --sia-color-border-default: #e1e1e1;
+  --sia-color-border-secondary: #444444;
+  --sia-color-border-highlight: #e1e1fa;
+  --sia-color-success-default: #725eeb;
+  --sia-color-success-disable: #c6bdf9;
+  --sia-color-success-green100: #06c36e;
+  --sia-color-success-green000: #f3fdf8;
+  --sia-spacing-space-2xs: 2px;
+  --sia-spacing-space-xs: 4px;
+  --sia-spacing-space-sm: 8px;
+  --sia-spacing-space-md: 12px;
+  --sia-spacing-space-lg: 16px;
+  --sia-spacing-space-xl: 24px;
+  --sia-spacing-space-2xl: 32px;
+  --sia-spacing-space-3xl: 40px;
+  --sia-spacing-space-4xl: 48px;
+  --sia-spacing-space-5xl: 56px;
+  --sia-spacing-space-6xl: 64px;
+  --sia-spacing-space-7xl: 72px;
+  --sia-spacing-space-8xl: 80px;
+  --sia-spacing-space-9xl: 88px;
+  --sia-spacing-space-10xl: 96px;
+  --sia-spacing-space-11xl: 104px;
+  --sia-spacing-space-12xl: 112px;
+}
+
+/* 模式统计:
+ * desktop: 30 个变量
+ * Mode 1: 25 个变量
+ */

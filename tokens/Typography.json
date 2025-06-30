@@ -1,0 +1,184 @@
+{
+    "collections": [
+        {
+            "name": "Typography ",
+            "modes": [
+                "desktop",
+                "mobile"
+            ],
+            "variables": {
+                "font": {
+                    "family": {
+                        "title": {
+                            "type": "string",
+                            "values": {
+                                "desktop": "Open sans",
+                                "mobile": "Open sans"
+                            }
+                        },
+                        "body": {
+                            "type": "string",
+                            "values": {
+                                "desktop": "Open sans",
+                                "mobile": "Open sans"
+                            }
+                        }
+                    },
+                    "weight": {
+                        "Regular": {
+                            "type": "string",
+                            "values": {
+                                "desktop": "Regular",
+                                "mobile": "Regular"
+                            }
+                        },
+                        "Semibold": {
+                            "type": "string",
+                            "values": {
+                                "desktop": "SemiBold",
+                                "mobile": "SemiBold"
+                            }
+                        },
+                        "Bold": {
+                            "type": "string",
+                            "values": {
+                                "desktop": "Bold",
+                                "mobile": "Bold"
+                            }
+                        }
+                    },
+                    "size": {
+                        "5xl": {
+                            "type": "number",
+                            "values": {
+                                "desktop": 60,
+                                "mobile": 60
+                            }
+                        },
+                        "4xl": {
+                            "type": "number",
+                            "values": {
+                                "desktop": 48,
+                                "mobile": 48
+                            }
+                        },
+                        "3xl": {
+                            "type": "number",
+                            "values": {
+                                "desktop": 36,
+                                "mobile": 36
+                            }
+                        },
+                        "2xl": {
+                            "type": "number",
+                            "values": {
+                                "desktop": 24,
+                                "mobile": 24
+                            }
+                        },
+                        "lg": {
+                            "type": "number",
+                            "values": {
+                                "desktop": 18,
+                                "mobile": 18
+                            }
+                        },
+                        "xl": {
+                            "type": "number",
+                            "values": {
+                                "desktop": 20,
+                                "mobile": 20
+                            }
+                        },
+                        "md": {
+                            "type": "number",
+                            "values": {
+                                "desktop": 16,
+                                "mobile": 16
+                            }
+                        },
+                        "sm": {
+                            "type": "number",
+                            "values": {
+                                "desktop": 14,
+                                "mobile": 14
+                            }
+                        },
+                        "xs": {
+                            "type": "number",
+                            "values": {
+                                "desktop": 12,
+                                "mobile": 12
+                            }
+                        }
+                    },
+                    "line-height": {
+                        "xs": {
+                            "type": "number",
+                            "values": {
+                                "desktop": 16,
+                                "mobile": 16
+                            }
+                        },
+                        "sm": {
+                            "type": "number",
+                            "values": {
+                                "desktop": 18,
+                                "mobile": 18
+                            }
+                        },
+                        "md": {
+                            "type": "number",
+                            "values": {
+                                "desktop": 20,
+                                "mobile": 20
+                            }
+                        },
+                        "lg": {
+                            "type": "number",
+                            "values": {
+                                "desktop": 22,
+                                "mobile": 22
+                            }
+                        },
+                        "xl": {
+                            "type": "number",
+                            "values": {
+                                "desktop": 24,
+                                "mobile": 24
+                            }
+                        },
+                        "2xl": {
+                            "type": "number",
+                            "values": {
+                                "desktop": 32,
+                                "mobile": 28
+                            }
+                        },
+                        "3xl": {
+                            "type": "number",
+                            "values": {
+                                "desktop": 44,
+                                "mobile": 40
+                            }
+                        },
+                        "4xl": {
+                            "type": "number",
+                            "values": {
+                                "desktop": 58,
+                                "mobile": 52
+                            }
+                        },
+                        "5xl": {
+                            "type": "number",
+                            "values": {
+                                "desktop": 70,
+                                "mobile": 64
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "collections": [
+        {
+            "name": "Border",
+            "modes": [
+                "desktop"
+            ],
+            "variables": {
+                "Radius": {
+                    "circle": {
+                        "type": "number",
+                        "values": {
+                            "desktop": 50
+                        }
+                    },
+                    "pill": {
+                        "type": "number",
+                        "values": {
+                            "desktop": 999
+                        }
+                    },
+                    "lg": {
+                        "type": "number",
+                        "values": {
+                            "desktop": 24
+                        }
+                    },
+                    "md": {
+                        "type": "number",
+                        "values": {
+                            "desktop": 16
+                        }
+                    },
+                    "sm": {
+                        "type": "number",
+                        "values": {
+                            "desktop": 12
+                        }
+                    },
+                    "xs": {
+                        "type": "number",
+                        "values": {
+                            "desktop": 8
+                        }
+                    },
+                    "xxs": {
+                        "type": "number",
+                        "values": {
+                            "desktop": 4
+                        }
+                    }
+                },
+                "Width": {
+                    "xl": {
+                        "type": "number",
+                        "values": {
+                            "desktop": 8
+                        }
+                    },
+                    "lg": {
+                        "type": "number",
+                        "values": {
+                            "desktop": 4
+                        }
+                    },
+                    "md": {
+                        "type": "number",
+                        "values": {
+                            "desktop": 2
+                        }
+                    },
+                    "sm": {
+                        "type": "number",
+                        "values": {
+                            "desktop": 1.5
+                        }
+                    },
+                    "xs": {
+                        "type": "number",
+                        "values": {
+                            "desktop": 1
+                        }
+                    },
+                    "xxs": {
+                        "type": "number",
+                        "values": {
+                            "desktop": 0.5
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

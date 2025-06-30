@@ -1,0 +1,116 @@
+{
+    "collections": [
+        {
+            "name": "Spacing",
+            "modes": [
+                "desktop"
+            ],
+            "variables": {
+                "Space": {
+                    "2xs": {
+                        "type": "number",
+                        "values": {
+                            "desktop": 2
+                        }
+                    },
+                    "xs": {
+                        "type": "number",
+                        "values": {
+                            "desktop": 4
+                        }
+                    },
+                    "sm": {
+                        "type": "number",
+                        "values": {
+                            "desktop": 8
+                        }
+                    },
+                    "md": {
+                        "type": "number",
+                        "values": {
+                            "desktop": 12
+                        }
+                    },
+                    "lg": {
+                        "type": "number",
+                        "values": {
+                            "desktop": 16
+                        }
+                    },
+                    "xl": {
+                        "type": "number",
+                        "values": {
+                            "desktop": 24
+                        }
+                    },
+                    "2xl": {
+                        "type": "number",
+                        "values": {
+                            "desktop": 32
+                        }
+                    },
+                    "3xl": {
+                        "type": "number",
+                        "values": {
+                            "desktop": 40
+                        }
+                    },
+                    "4xl": {
+                        "type": "number",
+                        "values": {
+                            "desktop": 48
+                        }
+                    },
+                    "5xl": {
+                        "type": "number",
+                        "values": {
+                            "desktop": 56
+                        }
+                    },
+                    "6xl": {
+                        "type": "number",
+                        "values": {
+                            "desktop": 64
+                        }
+                    },
+                    "7xl": {
+                        "type": "number",
+                        "values": {
+                            "desktop": 72
+                        }
+                    },
+                    "8xl": {
+                        "type": "number",
+                        "values": {
+                            "desktop": 80
+                        }
+                    },
+                    "9xl": {
+                        "type": "number",
+                        "values": {
+                            "desktop": 88
+                        }
+                    },
+                    "10xl": {
+                        "type": "number",
+                        "values": {
+                            "desktop": 96
+                        }
+                    },
+                    "11xl": {
+                        "type": "number",
+                        "values": {
+                            "desktop": 104
+                        }
+                    },
+                    "12xl": {
+                        "type": "number",
+                        "values": {
+                            "desktop": 112
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}
